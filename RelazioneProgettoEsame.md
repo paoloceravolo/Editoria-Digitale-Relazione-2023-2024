@@ -20,7 +20,7 @@ sottotitolo
 ## Introduzione
 
 Breve descrizione del progetto toccando i punti più importanti affrontati nel documento.
-*Obiettivi*, *tecnologie*, come la tecnologia supporta il raggiungimento degli obiettivi, *risultati* raggiunti.  
+*Obiettivi*, *tecnologie*, aspetti salienti del *flusso di gestione documentale*, *risultati* raggiunti.  
 
 ## Ideazione 
 
@@ -42,8 +42,8 @@ Indicate i requisiti di accettazione che dovranno essere soddisfatti per raggiun
 > LM4
 
 ### Canali di distribuzione
-Presentare i canali di distribuzione che si intendono raggiugnere e i formati dati richiesti da ogni canale.
-Proporre alcuni accenni relativi all'identità visuale e alle regole tipografiche o di stile che si intendono seguire.
+Presentare i canali di distribuzione che si intendono raggiugnere e i formati dati richiesti da ogni canale. Esempi di canali sono: (i) Web, (ii) Social, (iii) Market place, (iv) Intranet. Esempi di formati. (i) Word, (ii) ePub, (iii) CBZ, (iv) PDF, (v) WebBook. 
+Proporre alcuni accenni relativi all'identità visuale e alle regole tipografiche o di stile che si intendono seguire. Nel settore esisto classi di documento standard? Dati gli obiettivi è importante trasmettere un senso di adesione a modelli già conosciuti o un senso di innovazione? Lo stile sarà orientato verso un'espressione formale o informale?
 
 ## Processo di Produzione
 

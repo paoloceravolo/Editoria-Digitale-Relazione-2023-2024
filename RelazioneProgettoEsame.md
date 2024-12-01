@@ -25,25 +25,20 @@ Breve descrizione del progetto toccando i punti più importanti affrontati nel d
 ## Ideazione 
 
 ### Tema
-Identificazione dei temi che il prodotto editoriale dovrà presentare. Evidenziare gli argomenti correlati e la tendenza dell'attenzione su questi temi. 
-
-> LM2 slide 28
+Identificare i temi che il prodotto editoriale dovrà presentare. Evidenziare le domande frequenti, i bisogni insoddisfatti, gli argomenti correlati e la tendenza dell'attenzione su questi temi. 
 
 ![UNIMI](https://www.erasmusmilan.com/wp-content/uploads/2016/02/Statale-e1478865636847.jpg)
 
 ### Destinatari
-Descrivere i destinatari del prodotto editoriale descrivendo le personas alle quali si rivolge il prodotto. Descrivete alcuni scenari d'uso nei quali inserire le personas scelte come destinatari.
+Descrivere i destinatari del prodotto editoriale utilizzando la tecnica delle personas. Descrivere alcuni scenari d'uso nei quali inserire le personas scelte come destinatari.
 
-> LM2 slide 29-32
 
-### Requisiti di accettazione
-Indicate i requisiti di accettazione che dovranno essere soddisfatti per raggiungere i destinatari. Quali modelli di fruizione consideriamo più efficaci per i nostri destinatari? Quali standard consideriamo come riferimento? Quali aspetti di innovazione possiamo proporre? Nella qualità dei contenuti o nel processo di fruizione?
-
-> LM4
+### Modello di fruizione
+Indicate i requisiti di accettazione che dovranno essere soddisfatti per raggiungere i destinatari. Quali modelli di lettura e di fruizione consideriamo più efficaci per i nostri destinatari? Quali standard consideriamo come riferimento? Quali aspetti di innovazione possiamo proporre? Nella qualità dei contenuti o nel processo di fruizione?
 
 ### Canali di distribuzione
 Presentare i canali di distribuzione che si intendono raggiugnere e i formati dati richiesti da ogni canale. Esempi di canali sono: (i) Web, (ii) Social, (iii) Market place, (iv) Intranet. Esempi di formati. (i) Word, (ii) ePub, (iii) CBZ, (iv) PDF, (v) WebBook. 
-Proporre alcuni accenni relativi all'identità visuale e alle regole tipografiche o di stile che si intendono seguire. Nel settore esisto classi di documento standard? Dati gli obiettivi è importante trasmettere un senso di adesione a modelli già conosciuti o un senso di innovazione? Lo stile sarà orientato verso un'espressione formale o informale?
+Proporre alcuni accenni relativi all'identità visuale e alle regole tipografiche o di stile che si intendono seguire. Nel settore esistono classi di documento standard? Dati gli obiettivi è importante trasmettere un senso di adesione a modelli già conosciuti o un senso di innovazione? Lo stile sarà orientato verso un'espressione formale o informale?
 
 ## Processo di Produzione
 
@@ -53,8 +48,6 @@ Descrivere le fonti che saranno utilizzate nella costruzione del prodotto editor
 ### Gestione documentale
 
 Descrivere il *flusso di gestione documentale* definito per il progetto. Ad esempio, (i) la raccolta o produzione dei contenuti, (ii) la valutazione dei diritti, (iii) la trasformazione dei formati, (iv) la strutturazione dei contenuti, (v) l'applicazione dello stile grafico, (vi) la generazione dei metadati, (vii) la distribuzione dei contenuti. Nella descrizione del flusso considerare le  fasi di revisione, controllo e approvazione che possono richiedere le diverse fasi.
-
-> LM2 slide 14-26
 
 ```mermaid
 graph LR
